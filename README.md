@@ -24,6 +24,9 @@ It emphasizes a deep integration between, rather than separation of, technology 
 ![1](https://github.com/Developer-piyush/solarpunk/blob/main/overview%20images/4.png)
 ![1](https://github.com/Developer-piyush/solarpunk/blob/main/overview%20images/5.png)
 
+## Dom Structure
+![1](https://github.com/Developer-piyush/solarpunk/blob/main/overview%20images/dom%20structure.jpg)
+
 
 
 
